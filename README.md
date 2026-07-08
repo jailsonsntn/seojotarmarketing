@@ -50,4 +50,4 @@ O projeto está preparado para hospedagem estática em qualquer provedor que sir
 - Site: https://jotarmarketing.com.br
 - SEO: https://seo.jotarmarketing.com.br
 - Instagram: https://instagram.com/jotar.marketing
-- WhatsApp: https://wa.me/5513900000000
+- WhatsApp: https://api.whatsapp.com/send/?phone=5513985994965&text=Ol%C3%A1%2C+Jailson%21+Vi+seu+perfil+e+quero+saber+mais+sobre+o+site+para+meu+neg%C3%B3cio+%EF%BF%BD&type=phone_number&app_absent=0&utm_source=ig

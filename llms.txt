@@ -15,7 +15,7 @@ Ajudar empresas a aparecerem no Google, no Perfil da Empresa e nas respostas de 
 - AIO
 
 ## Contatos e perfis
-- WhatsApp: https://wa.me/5513900000000
+- WhatsApp: https://api.whatsapp.com/send/?phone=5513985994965&text=Ol%C3%A1%2C+Jailson%21+Vi+seu+perfil+e+quero+saber+mais+sobre+o+site+para+meu+neg%C3%B3cio+%EF%BF%BD&type=phone_number&app_absent=0&utm_source=ig
 - Instagram: https://instagram.com/jotar.marketing
 
 ## Conteúdo prioritário
