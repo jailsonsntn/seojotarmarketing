@@ -1,0 +1,7 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://seo.jotarmarketing.com.br/sitemap.xml
+
+# AI discovery helper
+LLM-Content: https://seo.jotarmarketing.com.br/llms.txt
